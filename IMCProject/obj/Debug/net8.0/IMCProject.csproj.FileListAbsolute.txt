@@ -1,0 +1,14 @@
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\bin\Debug\net8.0\IMCProject.exe
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\bin\Debug\net8.0\IMCProject.deps.json
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\bin\Debug\net8.0\IMCProject.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\bin\Debug\net8.0\IMCProject.dll
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\bin\Debug\net8.0\IMCProject.pdb
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\obj\Debug\net8.0\IMCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\obj\Debug\net8.0\IMCProject.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\obj\Debug\net8.0\IMCProject.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\obj\Debug\net8.0\IMCProject.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\obj\Debug\net8.0\IMCProject.dll
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\obj\Debug\net8.0\refint\IMCProject.dll
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\obj\Debug\net8.0\IMCProject.pdb
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\obj\Debug\net8.0\IMCProject.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\lista-02-sdm-2024\IMCProject\obj\Debug\net8.0\ref\IMCProject.dll
